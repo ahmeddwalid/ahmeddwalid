@@ -19,7 +19,7 @@
 
 - :school: I am a `Student` at [Faculty of Computing & Information Technology](https://aast.edu/en/colleges/ccit/alex).
 
-- :computer: I am a competitive programmer at `Codeforces`, `Leetcode`, `Codechef`, `Google Contests`, `TryHackme`.
+- :computer: I am a competitive programmer at `Codeforces`, `Leetcode`, `Codechef`, `TryHackme`.
 
 - Currently learning `Computer Science` specializing in `Cybersecurity`.
 
