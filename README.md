@@ -2,7 +2,7 @@
 <div align='center'>
  <b>✨السَّلاَمُ عَلَيْكُمْ✨</b>
 </div>
-<h1 align="center"><b>I'm Ahmed Walid </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+<h1 align="center"><b>I'm Ahmed Walid </b></h1>
 <!--  -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=40&pause=1000&color=268AF7&center=true&vCenter=true&width=600&height=100&lines=A+Computer+Science+student;A+Mobile+Application+Developer;An+Active+Learner;An+Electronics+Enthusiast;A+CyberSecurity+Specialist"></a>
