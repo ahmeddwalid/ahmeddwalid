@@ -17,7 +17,7 @@
 
 <br><br>
 
-- :school: I am a `Student` at [Faculty of Computing & Information Technology](https://aast.edu/en/colleges/ccit/alex).
+- :school: I am a `Student` at the [Faculty of Computing & Information Technology](https://aast.edu/en/colleges/ccit/alex).
 
 - :computer: I am a competitive programmer at `Codeforces`, `Leetcode`, `Codechef`, `TryHackme`.
 
