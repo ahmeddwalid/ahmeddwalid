@@ -21,7 +21,7 @@
 
 - :computer: I am a competitive programmer at `Codeforces`, `Leetcode`, `Codechef`, `TryHackme`.
 
-- Currently learning `Computer Science` specializing in `Cybersecurity`.
+- Currently learning `Computer Science` majoring in `Cybersecurity`.
 
 - I’m open for a new `job opportunity`, Here's  [MY RESUME](https://rxresu.me/ahmedwalid.c3301/android-native-application-developer).
 - :boom: Check out  [MY WEBSITE](https://github.com/ahmeddwalid/portfolioWebsite) :boom:
