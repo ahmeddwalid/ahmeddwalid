@@ -23,7 +23,7 @@
 
 - Currently learning `Computer Science` majoring in `Cybersecurity`.
 
-- I’m open for a new `job opportunity`, Here's  [MY RESUME](https://rxresu.me/ahmedwalid.c3301/android-native-application-developer).
+- I’m open for a new `job opportunity`
 - :boom: Check out  [MY WEBSITE](https://github.com/ahmeddwalid/portfolioWebsite) :boom:
 <br>
 
