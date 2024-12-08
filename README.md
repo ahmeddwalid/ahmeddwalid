@@ -17,7 +17,7 @@
 
 <br><br>
 
-- :school: I am a `Student` at the <a href="[https://example.com](https://aast.edu/en/colleges/ccit/alex)" target="_blank">Faculty of Computing & Information Technology.</a>
+- :school: I am a `Student` at the <a href="https://aast.edu/en/colleges/ccit/alex" target="_blank">Faculty of Computing & Information Technology.</a>
 
 - :computer: I am a competitive programmer at `Codeforces`, `Leetcode`, `Codechef`, `TryHackme`.
 
