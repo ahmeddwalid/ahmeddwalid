@@ -122,7 +122,7 @@
 
 <li>
 <a href="mailto:devahmedwalid@proton.me" target="_blank">
-<img src="https://img.shields.io/badge/Proton_Mail-devahmedwalid-8935eb?style=flat-square&logo=protonmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/Proton_Mail-devahmedwalid-8935eb?style=for-the-badge&logo=protonmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 	
