@@ -28,7 +28,7 @@
 <br>
 
 
-<h3 align="left">🔽 Some stats about me ! 🔽</h3>
+<h3 align="center">🔽 Some stats about me ! 🔽</h3>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmeddwalid&theme=dark&langs_count=8&hide=swig&layout=compact">
 </p>
