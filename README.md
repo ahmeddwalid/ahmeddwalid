@@ -29,12 +29,12 @@
 
 
 <h3 align="left">🔽 Some stats about me ! 🔽</h3>
-<p align="left">
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmeddwalid&theme=dark&langs_count=8&hide=swig&layout=compact">
 </p>
 
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tech Stack & Skills</b>
 <br>
 
 <p align="center">
