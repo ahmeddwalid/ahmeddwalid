@@ -28,7 +28,9 @@
 <br>
 
 
-<h3 align="center">🔽 Some stats about me ! 🔽</h3>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ahmeddwalid&theme=react&show_icons=true&hide_border=true&count_private=true" alt="Ahmed's GitHub Stats">
+<br>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmeddwalid&theme=dark&langs_count=8&hide=swig&layout=compact">
 </p>
