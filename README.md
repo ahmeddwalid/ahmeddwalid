@@ -19,12 +19,12 @@
 
 - :school: I am a `Student` at the <a href="https://aast.edu/en/colleges/ccit/alex" target="_blank">Faculty of Computing & Information Technology.</a>
 
-- :computer: I am a competitive programmer at `Codeforces`, `Leetcode`, `Codechef`, `TryHackme`.
+- :computer: I am a competitive programmer at `Codeforces`, `Codewars`, `HackTheBox`, `TryHackme`.
 
 - Currently learning `Computer Science` majoring in `Cybersecurity`.
 
 - I’m open for a new `job opportunity`
-- :boom: Check out  [MY WEBSITE](https://github.com/ahmeddwalid/portfolioWebsite) :boom:
+- :boom: Check out  [MY WEBSITE](https://ahmeddwalid.github.io/portfolioWebsite/) :boom:
 <br>
 
 
