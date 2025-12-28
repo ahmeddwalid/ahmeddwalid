@@ -13,8 +13,6 @@
 
 </p>
 
----
-
 ## <picture><img src = "https://github.com/ahmeddwalid/ahmeddwalid/blob/main/images/aboutMe.gif?raw=true"  width = 50px></picture> About Me
 
 <picture>  <img  align="right"  src="https://github.com/ahmeddwalid/ahmeddwalid/blob/main/images/notGaming.gif?raw=true"  width = 250px></picture>
