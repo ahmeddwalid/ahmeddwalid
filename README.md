@@ -29,8 +29,6 @@
 
 - :boom: Check out [MY WEBSITE](https://ahmeddwalid.github.io/portfolioWebsite/) :boom:
 
----
-
 ## <picture><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif"  width="30"></picture> GitHub Stats
 
 <p  align="center">
@@ -44,8 +42,6 @@
 <img  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ahmeddwalid&theme=dark&langs_count=8&hide=swig&layout=compact">
 
 </p>
-
----
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"  width ="25"><b> Tech Stack & Skills</b>
 
@@ -158,8 +154,6 @@
 <a  href="#"><img  src="https://img.shields.io/static/v1?style=for-the-badge&message=FreeBSD&color=AB2B28&logo=FreeBSD&logoColor=FFFFFF&label="  /></a>
 
 </p>
-
----
 
 ## <img src="https://github.com/ahmeddwalid/ahmeddwalid/blob/main/images/connectWithMe.gif?raw=true"  width="80"> Let's Connect
 
