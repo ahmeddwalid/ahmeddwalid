@@ -1,4 +1,5 @@
 
+
 <div  align='center'>
 
 <b>✨السَّلاَمُ عَلَيْكُمْ✨</b>
@@ -182,9 +183,6 @@
 <img  src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 > *"Ultimately, saying that you don't care about privacy because you have nothing to hide is no different from saying you don't care about freedom of speech because you have nothing to say."*
-
->
-
 > — **Edward Snowden**, *Permanent Record*
 
 <div  align="right"  dir="rtl">
