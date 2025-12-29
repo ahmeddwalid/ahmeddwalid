@@ -18,7 +18,7 @@
 
 <picture>  <img  align="right"  src="https://github.com/ahmeddwalid/ahmeddwalid/blob/main/images/notGaming.gif?raw=true"  width = 250px></picture>
 
-- :school: I am a `Student` at the <a  href="https://aast.edu/en/colleges/ccit/alex"  target="_blank">Faculty of Computing & Information Technology.</a>
+- :school: I am a `Student` at the <a  href="https://aast.edu/en/colleges/ccit/alex"  target="_blank">College of Computing & Information Technology.</a>
 
 - :computer: I am a competitive programmer at `Codeforces` and `Codewars`.
 
